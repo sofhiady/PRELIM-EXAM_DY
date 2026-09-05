@@ -22,15 +22,6 @@
 
 <br>
 
-## 👋 Hey, I'm Sofhia
-
-| 📌 | Info |
-|---|---|
-| 🎓 Program | BSN 4F, Ateneo de Davao University — School of Nursing |
-| 📧 Email | saldy@addu.edu.ph |
-| 📱 Phone | 0960 207 8243 |
-| 📍 Location | Philippines |
-
 <div align="center">
 
 **Tools & Skills Used This Term**
