@@ -19,6 +19,17 @@
 
 <br>
 
+## 👋 Hey, I'm Sofhia
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/saldy%40addu.edu.ph-0052C9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saldy@addu.edu.ph)
+[![Phone](https://img.shields.io/badge/0960%20207%208243-0052C9?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+639602078243)
+![Location](https://img.shields.io/badge/Philippines-0052C9?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
+
+**Program:** BSN 4F, Ateneo de Davao University — School of Nursing
 
 <div align="center">
 
@@ -33,6 +44,52 @@
 </div>
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%201&fontSize=16&fontColor=EEEDE9" width="19%"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%202&fontSize=16&fontColor=EEEDE9" width="19%"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%203&fontSize=16&fontColor=EEEDE9" width="19%"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%204&fontSize=16&fontColor=EEEDE9" width="19%"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%205&fontSize=16&fontColor=EEEDE9" width="19%"/>
+
+<p align="center"><sub>Setup → Design Principles → Branding → Infographic → Prelim Exam</sub></p>
+
+<br>
+
+---
+
+## 📸 Portfolio Gallery
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<table><tr><td bgcolor="#0052C9">
+<img src="sofhia-images/coffee-flyer.jpg" width="100%"/>
+</td></tr></table>
+<b>☕ Activity 1</b><br/>
+<sub>Presentation Design Principles</sub>
+</td>
+<td align="center" width="33%">
+<table><tr><td bgcolor="#0052C9">
+<img src="sofhia-images/sd-brand-kit.jpg" width="100%"/>
+</td></tr></table>
+<b>🎨 Activity 2</b><br/>
+<sub>Color Palette & Typography</sub>
+</td>
+<td align="center" width="33%">
+<table><tr><td bgcolor="#0052C9">
+<img src="sofhia-images/waiting-for-care-infographic.jpg" width="100%"/>
+</td></tr></table>
+<b>🩺 Activity 3</b><br/>
+<sub>Infographic & Documentation</sub>
+</td>
+</tr>
+</table>
+
+<sub>Framed in brand blue — click any image above to view full size</sub>
+
+</div>
+
+<br>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=60&section=header&text=BRAND%20KIT&fontSize=24&fontColor=EEEDE9" width="100%"/>
 
@@ -54,10 +111,6 @@
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="sofhia-images/sd-brand-kit.jpg" width="600" alt="Full SD brand kit sheet"/>
-</p>
 
 <br>
 
@@ -88,20 +141,28 @@
 <summary><b>1️⃣ Presentation Design Principles</b></summary>
 <br>
 
-**What it is:** A promotional flyer for a free coffee booth at Arrupe Hall, Booth 7, offering iced latte, cold brew, and Spanish latte — completely free, first come first served.
+<table>
+<tr>
+<td width="45%" valign="top">
+<table><tr><td bgcolor="#0052C9">
+<img src="sofhia-images/coffee-flyer.jpg" width="100%"/>
+</td></tr></table>
+<p align="center"><sub>Free Coffee flyer · Arrupe Hall, Booth 7</sub></p>
+</td>
+<td width="55%" valign="top">
 
-**Concept:** A fun, high-impact flyer meant to catch attention quickly and make it instantly clear that the coffee is free.
+**What it is:** A promotional flyer for a free coffee booth, offering iced latte, cold brew, and Spanish latte — completely free, first come first served.
 
 **Design principles applied:**
-- 🎯 **Contrast** — bold, dark maroon text against a soft cream background so the main message stands out immediately
-- 📐 **Visual hierarchy** — "Booth 7" is the largest and boldest element (the main message); the date is smallest (context); the drink menu sits in between (supporting detail)
-- 🌬️ **Whitespace & grid alignment** — a subtle background grid and consistent margins keep the flyer organized rather than cluttered
-- ☕ **Imagery as focal point** — a large photo of the iced coffee anchors the bottom of the design, since food photography naturally draws the eye
-- ✏️ **Supporting line-art** — hand-drawn icons (moka pot, coffee beans, coffee sack) reinforce the theme without competing with the text
+- 🎯 **Contrast** — bold, dark maroon text against a soft cream background
+- 📐 **Visual hierarchy** — "Booth 7" largest (main message), date smallest (context), drink menu in between
+- 🌬️ **Whitespace & grid alignment** — subtle background grid, consistent margins
+- ☕ **Imagery as focal point** — a large coffee photo anchors the design
+- ✏️ **Supporting line-art** — moka pot, coffee beans, coffee sack icons reinforce the theme
 
-<p align="center">
-  <img src="sofhia-images/coffee-flyer.jpg" width="360" alt="Coffee booth flyer"/>
-</p>
+</td>
+</tr>
+</table>
 
 > 💬 *"These choices made the flyer scannable in just a few seconds — someone glancing at it immediately understands what's offered, where, when, and that it's free."*
 
@@ -111,21 +172,31 @@
 <summary><b>2️⃣ Color Palette & Typography</b></summary>
 <br>
 
+<table>
+<tr>
+<td width="45%" valign="top">
+<table><tr><td bgcolor="#0052C9">
+<img src="sofhia-images/sd-brand-kit.jpg" width="100%"/>
+</td></tr></table>
+<p align="center"><sub>The full "SD" brand sheet</sub></p>
+</td>
+<td width="55%" valign="top">
+
 **What it is:** A personal brand identity built around my initials, "SD" — a logo, business card layout, and color/typography reference sheet.
 
 **Color choices:**
-- 🟦 **Blue `#0052C9`** — chosen because it conveys trust, professionalism, and calm, fitting for a personal academic brand
-- ⬜ **Off-white `#EEEDE9`** — keeps the overall palette soft and modern instead of harsh
+- 🟦 **Blue `#0052C9`** — trust, professionalism, calm
+- ⬜ **Off-white `#EEEDE9`** — keeps the palette soft and modern
 
 **Typography choices:**
-- **Montserrat** — bold and geometric, used for headings and big statements where strong visual impact is needed
-- **Fira Code** — a monospace font giving a clean, organized, slightly technical feel, used for body text and detailed information (fitting, since this is an IT skills course)
+- **Montserrat** — bold, geometric, used for headings and big statements
+- **Fira Code** — monospace, clean and technical, used for body text and details
 
-**Consistency:** the same palette and type pairing is applied across the logo, business card, and reference sheet — which is what ties everything together as one cohesive brand rather than separate, unrelated designs.
+**Consistency:** the same palette and type pairing is applied across the logo, business card, and reference sheet.
 
-<p align="center">
-  <img src="sofhia-images/sd-brand-kit.jpg" width="600" alt="Full SD brand kit sheet"/>
-</p>
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -133,31 +204,36 @@
 <summary><b>3️⃣ Infographic & Mini Project Documentation</b></summary>
 <br>
 
+<table>
+<tr>
+<td width="45%" valign="top">
+<table><tr><td bgcolor="#0052C9">
+<img src="sofhia-images/waiting-for-care-infographic.jpg" width="100%"/>
+</td></tr></table>
+<p align="center"><sub>"Waiting for Care" infographic</sub></p>
+</td>
+<td width="55%" valign="top">
+
 **What it is:** An infographic titled *"Waiting for Care: Long Hospital Waiting Times,"* paired with a full project documentation proposing a solution.
 
-**The problem:** Long waiting times occur at nearly every stage of a hospital visit — registration, consultation, laboratory, and pharmacy — largely due to manual, paper-based processes and high patient volume overwhelming limited staff.
-
 **Key data:**
-- ⏱️ Average time spent by new patients in the outpatient department of UP-PGH, from registration through consultation: **139.97 minutes (≈2 hours 20 minutes)**
-- 🌍 The WHO notes that delays specifically in emergency care can have serious consequences
+- ⏱️ Average outpatient wait at UP-PGH: **139.97 minutes (≈2 hrs 20 min)**
+- 🌍 WHO notes delays in emergency care can have serious consequences
 
-**Main causes:**
-- High patient volume overwhelming available services
-- Limited healthcare staff creating bottlenecks
-- Manual, paper-based registration and procedures adding extra time
+**Main causes:** high patient volume · limited healthcare staff · manual, paper-based processes
 
-<p align="center">
-  <img src="sofhia-images/waiting-for-care-infographic.jpg" width="360" alt="Waiting for Care infographic"/>
-</p>
+</td>
+</tr>
+</table>
 
 **The proposed solution — MediQueue**, an IT-enabled patient queuing and scheduling system:
-- 📲 Online booking portal + QR-code check-in — no more manual number slips
-- ⚖️ Smart scheduling & load-balancing — distributes appointments and prioritizes urgent cases
+- 📲 Online booking portal + QR-code check-in
+- ⚖️ Smart scheduling & load-balancing, prioritizing urgent cases
 - 🖥️ Centralized queue management dashboard for staff
-- 🔔 Real-time SMS/app notifications for patients
+- 🔔 Real-time SMS/app notifications
 - 📊 Analytics module tracking wait times and peak-hour patterns
 
-**Grounded in research:** cites Zhang et al. (2023) on the measurable link between waiting time and patient satisfaction in outpatient departments, and WHO guidance on quality health services.
+**Grounded in research:** cites Zhang et al. (2023) on the link between waiting time and patient satisfaction, and WHO guidance on quality health services.
 
 </details>
 
@@ -170,7 +246,11 @@ A recorded 5–8 minute walkthrough of this repo and all three activities, closi
 > 💭 *"Presentation design isn't just about making things look nice — it's about how effectively an idea gets communicated. It guides attention, improves understanding, builds credibility, and creates a more engaging, memorable experience."*
 > — from my Prelim script, wrap-up section
 
-📽️ **Watch here:** [`PRELIM EXAM_DY.mp4`](prelim-exam/PRELIM%20EXAM_DY.mp4)
+<div align="center">
+
+📽️ **[▶ Watch PRELIM EXAM_DY.mp4](prelim-exam/PRELIM%20EXAM_DY.mp4)**
+
+</div>
 
 <br>
 
@@ -178,7 +258,7 @@ A recorded 5–8 minute walkthrough of this repo and all three activities, closi
 <summary>🎁 <b>Psst — one more thing (click to open)</b></summary>
 <br>
 
-You made it to the bottom of the README! Here's a small bonus: this whole page — colors, fonts, layout — follows the *exact same design principles* explained in Activity 1 and quoted throughout this page: contrast to catch your eye, hierarchy to guide you section by section, and consistent branding so it all feels like one thing instead of scattered files.
+You made it to the bottom of the README! Here's a small bonus: this whole page — colors, fonts, layout, even the framed photo gallery — follows the *exact same design principles* explained in Activity 1: contrast to catch your eye, hierarchy to guide you section by section, and consistent branding so it all feels like one thing instead of scattered files.
 
 In other words — **this README is technically a fourth activity.** 😄
 
