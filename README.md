@@ -251,19 +251,6 @@ A recorded 5–8 minute walkthrough of this repo and all three activities, closi
 
 </div>
 
-<br>
-
-<details>
-<summary>🎁 <b>Psst — one more thing (click to open)</b></summary>
-<br>
-
-You made it to the bottom of the README! Here's a small bonus: this whole page — colors, fonts, layout, even the framed photo gallery — follows the *exact same design principles* explained in Activity 1: contrast to catch your eye, hierarchy to guide you section by section, and consistent branding so it all feels like one thing instead of scattered files.
-
-In other words — **this README is technically a fourth activity.** 😄
-
-</details>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=120&section=footer&text=SOFHIA%20ANGELA%20L.%20DY%20|%20BSN%204F&fontSize=18&fontColor=EEEDE9" width="100%"/>
 
