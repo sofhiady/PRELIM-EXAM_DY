@@ -265,6 +265,6 @@ In other words — **this README is technically a fourth activity.** 😄
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=120&section=footer&text=Every%20Second%20Matters&fontSize=18&fontColor=EEEDE9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=120&section=footer&text=SOFHIA%20ANGELA%20L.%20DY%20|%20BSN%204F&fontSize=18&fontColor=EEEDE9" width="100%"/>
 
 <div align="center"><sub>© 2026 Sofhia Angela L. Dy · GE 4120 Portfolio</sub></div>
