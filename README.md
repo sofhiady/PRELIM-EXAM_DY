@@ -29,8 +29,6 @@
 
 </div>
 
-**Program:** BSN 4F, Ateneo de Davao University — School of Nursing
-
 <div align="center">
 
 **Tools & Skills Used This Term**
