@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=180&section=header&text=SOFHIA%20ANGELA%20DY&fontSize=42&fontColor=EEEDE9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=180&section=header&text=PRELIM%EXAM%20|%20PORTFOLIIO&fontSize=42&fontColor=EEEDE9&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=0052C9&center=true&vCenter=true&width=600&lines=Driven'+%E2%98%85+Strivin'+%E2%98%85+Livin'+%E2%98%85+Thrivin';GE+4120+%3A+21st+Century+IT+Skills;Sofhia+with+the+unnecessary+%22H%22" />
 
@@ -235,11 +235,6 @@ A personal "SD" brand identity in blue and off-white, paired with Montserrat and
 - 🌍 WHO notes delays in emergency care can have serious consequences
 
 **Main causes:** high patient volume · limited healthcare staff · manual, paper-based processes
-
-</td>
-</tr>
-</table>
-
 **The proposed solution — MediQueue**, an IT-enabled patient queuing and scheduling system:
 - 📲 Online booking portal + QR-code check-in
 - ⚖️ Smart scheduling & load-balancing, prioritizing urgent cases
@@ -248,6 +243,10 @@ A personal "SD" brand identity in blue and off-white, paired with Montserrat and
 - 📊 Analytics module tracking wait times and peak-hour patterns
 
 **Grounded in research:** cites Zhang et al. (2023) on the link between waiting time and patient satisfaction, and WHO guidance on quality health services.
+
+</td>
+</tr>
+</table>
 
 </details>
 
