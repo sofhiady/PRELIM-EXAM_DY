@@ -11,13 +11,6 @@
 ![Status](https://img.shields.io/badge/PRELIM-COMPLETE-0052C9?style=for-the-badge&labelColor=EEEDE9)
 ![University](https://img.shields.io/badge/ATENEO%20DE%20DAVAO-BSN%204F-0052C9?style=for-the-badge&labelColor=EEEDE9)
 
-<br>
-
-<img src="sofhia-images/sd-logo.png" width="120" alt="SD Logo"/>
-
-</div>
-
-<br>
 
 <div align="center">
 
