@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="sofhia-images/sd-logo.png" width="180" alt="SD Logo"/>
+<img src="sofhia-images/sd-logo.png" width="120" alt="SD Logo"/>
 
 </div>
 
@@ -45,9 +45,11 @@
 
 <br>
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%201&fontSize=16&fontColor=EEEDE9" width="19%"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%202&fontSize=16&fontColor=EEEDE9" width="19%"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%203&fontSize=16&fontColor=EEEDE9" width="19%"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%204&fontSize=16&fontColor=EEEDE9" width="19%"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%205&fontSize=16&fontColor=EEEDE9" width="19%"/>
 
-<p align="center"><sub>Setup → Design Principles → Branding → Infographic → Prelim Exam</sub></p>
+<sub>Setup → Design Principles → Branding → Infographic → Prelim Exam</sub>
+</div>
 
 <br>
 
@@ -55,37 +57,47 @@
 
 ## 📸 Portfolio Gallery
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="180" valign="top">
 <table><tr><td bgcolor="#0052C9">
-<img src="sofhia-images/coffee-flyer.jpg" width="100%"/>
+<img src="sofhia-images/coffee-flyer.jpg" width="160"/>
 </td></tr></table>
-<b>☕ Activity 1</b><br/>
-<sub>Presentation Design Principles</sub>
 </td>
-<td align="center" width="33%">
-<table><tr><td bgcolor="#0052C9">
-<img src="sofhia-images/sd-brand-kit.jpg" width="100%"/>
-</td></tr></table>
-<b>🎨 Activity 2</b><br/>
-<sub>Color Palette & Typography</sub>
+<td valign="middle">
+
+**☕ Activity 1 — Presentation Design Principles**
+A promotional flyer for a free coffee booth at Arrupe Hall, Booth 7 — built around contrast, hierarchy, whitespace, and imagery so the offer reads in seconds.
+
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td width="180" valign="top">
 <table><tr><td bgcolor="#0052C9">
-<img src="sofhia-images/waiting-for-care-infographic.jpg" width="100%"/>
+<img src="sofhia-images/sd-brand-kit.jpg" width="160"/>
 </td></tr></table>
-<b>🩺 Activity 3</b><br/>
-<sub>Infographic & Documentation</sub>
+</td>
+<td valign="middle">
+
+**🎨 Activity 2 — Color Palette & Typography**
+A personal "SD" brand identity in blue and off-white, paired with Montserrat and Fira Code — applied consistently across the logo, business card, and reference sheet.
+
+</td>
+</tr>
+<tr>
+<td width="180" valign="top">
+<table><tr><td bgcolor="#0052C9">
+<img src="sofhia-images/waiting-for-care-infographic.jpg" width="160"/>
+</td></tr></table>
+</td>
+<td valign="middle">
+
+**🩺 Activity 3 — Infographic & Documentation**
+*Waiting for Care* visualizes long hospital wait times, paired with a full proposal for MediQueue, an IT-enabled patient queuing system.
+
 </td>
 </tr>
 </table>
-
-<sub>Framed in brand blue — click any image above to view full size</sub>
-
-</div>
 
 <br>
 
@@ -95,16 +107,18 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="160" valign="top">
+<table><tr><td bgcolor="#0052C9">
+<img src="sofhia-images/sd-brand-kit.jpg" width="140"/>
+</td></tr></table>
+</td>
+<td valign="top">
 
-### 🎨 Color Palette
+**🎨 Color Palette**
 🟦 **Blue** `#0052C9` — trust, professionalism, calm
 ⬜ **Off-White** `#EEEDE9` — softens the palette, keeps it modern
 
-</td>
-<td width="50%">
-
-### ✍️ Typography
+**✍️ Typography**
 **Montserrat** — bold & geometric, used for headings and big statements
 `Fira Code` — monospace, used for body text; clean and organized
 
@@ -143,13 +157,13 @@
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="200" valign="top">
 <table><tr><td bgcolor="#0052C9">
-<img src="sofhia-images/coffee-flyer.jpg" width="100%"/>
+<img src="sofhia-images/coffee-flyer.jpg" width="180"/>
 </td></tr></table>
-<p align="center"><sub>Free Coffee flyer · Arrupe Hall, Booth 7</sub></p>
+<p align="center"><sub>Free Coffee flyer · Booth 7</sub></p>
 </td>
-<td width="55%" valign="top">
+<td valign="top">
 
 **What it is:** A promotional flyer for a free coffee booth, offering iced latte, cold brew, and Spanish latte — completely free, first come first served.
 
@@ -174,13 +188,13 @@
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="200" valign="top">
 <table><tr><td bgcolor="#0052C9">
-<img src="sofhia-images/sd-brand-kit.jpg" width="100%"/>
+<img src="sofhia-images/sd-brand-kit.jpg" width="180"/>
 </td></tr></table>
 <p align="center"><sub>The full "SD" brand sheet</sub></p>
 </td>
-<td width="55%" valign="top">
+<td valign="top">
 
 **What it is:** A personal brand identity built around my initials, "SD" — a logo, business card layout, and color/typography reference sheet.
 
@@ -206,13 +220,13 @@
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="200" valign="top">
 <table><tr><td bgcolor="#0052C9">
-<img src="sofhia-images/waiting-for-care-infographic.jpg" width="100%"/>
+<img src="sofhia-images/waiting-for-care-infographic.jpg" width="180"/>
 </td></tr></table>
 <p align="center"><sub>"Waiting for Care" infographic</sub></p>
 </td>
-<td width="55%" valign="top">
+<td valign="top">
 
 **What it is:** An infographic titled *"Waiting for Care: Long Hospital Waiting Times,"* paired with a full project documentation proposing a solution.
 
