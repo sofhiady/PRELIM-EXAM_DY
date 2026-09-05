@@ -105,27 +105,6 @@ A personal "SD" brand identity in blue and off-white, paired with Montserrat and
 </tr>
 </table>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=60&section=header&text=WHAT'S%20INSIDE&fontSize=24&fontColor=EEEDE9" width="100%"/>
-
-```
-📁 GE4120-portfolio
- ┣ 📂 sofhia-images/
- ┃    ┣ 🖼️ sd-logo.png
- ┃    ┣ 🖼️ sd-brand-kit.jpg
- ┃    ┣ 🖼️ coffee-flyer.jpg
- ┃    ┗ 🖼️ waiting-for-care-infographic.jpg
- ┣ 📂 activity-1-presentation-design/
- ┣ 📂 activity-2-color-typography/
- ┣ 📂 activity-3-infographic-documentation/
- ┣ 📂 prelim-exam/
- ┃    ┗ 🎥 PRELIM EXAM_DY.mp4
- ┗ 📄 README.md
-```
-
-<br>
-
 ## 🗂️ Activity Breakdown
 
 <details open>
