@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=180&section=header&text=PRELIM%EXAM%20|%20PORTFOLIIO&fontSize=42&fontColor=EEEDE9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=180&section=header&text=PRELIM%20EXAM%20|%20PORTFOLIIO&fontSize=42&fontColor=EEEDE9&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=0052C9&center=true&vCenter=true&width=600&lines=Driven'+%E2%98%85+Strivin'+%E2%98%85+Livin'+%E2%98%85+Thrivin';GE+4120+%3A+21st+Century+IT+Skills;Sofhia+with+the+unnecessary+%22H%22" />
 
