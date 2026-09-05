@@ -39,16 +39,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%201&fontSize=16&fontColor=EEEDE9" width="19%"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%202&fontSize=16&fontColor=EEEDE9" width="19%"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%203&fontSize=16&fontColor=EEEDE9" width="19%"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%204&fontSize=16&fontColor=EEEDE9" width="19%"/> <img src="https://capsule-render.vercel.app/api?type=soft&color=0052C9&height=45&section=header&text=WEEK%205&fontSize=16&fontColor=EEEDE9" width="19%"/>
-
-<sub>Setup → Design Principles → Branding → Infographic → Prelim Exam</sub>
-</div>
-
-<br>
-
 ---
 
 ## 📸 Portfolio Gallery
