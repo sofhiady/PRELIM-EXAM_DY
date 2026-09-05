@@ -19,8 +19,6 @@
 
 <br>
 
-## 👋 Hey, I'm Sofhia
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/saldy%40addu.edu.ph-0052C9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saldy@addu.edu.ph)
