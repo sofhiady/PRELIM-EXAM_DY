@@ -135,8 +135,6 @@ A personal "SD" brand identity in blue and off-white, paired with Montserrat and
 
 ## 🗂️ Activity Breakdown
 
-> *Straight from my Prelim script — this is exactly how I explain each piece on camera.*
-
 <details open>
 <summary><b>1️⃣ Presentation Design Principles</b></summary>
 <br>
