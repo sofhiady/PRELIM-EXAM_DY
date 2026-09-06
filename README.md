@@ -216,9 +216,7 @@ A recorded 5–8 minute walkthrough of this repo and all three activities, closi
 > — from my Prelim script, wrap-up section
 
 <div align="center">
-
-📽️ **[▶ Watch PRELIM EXAM_DY.mp4](prelim-exam/PRELIM%20EXAM_DY.mp4)**
-
+Watch the video
 </div>
 
 
