@@ -215,9 +215,7 @@ A recorded 5–8 minute walkthrough of this repo and all three activities, closi
 > 💭 *"Presentation design isn't just about making things look nice — it's about how effectively an idea gets communicated. It guides attention, improves understanding, builds credibility, and creates a more engaging, memorable experience."*
 > — from my Prelim script, wrap-up section
 
-<div align="center">
-Watch the video
-</div>
+<div align="center"> <a href="https://drive.google.com/file/d/1Zava_x2LJJEPQxsyfB7mIz5aOkOjG2Ez/view?usp=sharing"> <img src="https://img.shields.io/badge/▶%20WATCH%20PRELIM%20EXAM-0052C9?style=for-the-badge&labelColor=EEEDE9" alt="Watch the video"/> </a> </div> <br> <div align="center">
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=120&section=footer&text=SOFHIA%20ANGELA%20L.%20DY%20|%20BSN%204F&fontSize=18&fontColor=EEEDE9" width="100%"/>
