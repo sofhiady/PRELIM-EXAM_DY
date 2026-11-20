@@ -1,222 +1,277 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=240&section=header&text=SOFHIA%20DY&fontSize=70&fontColor=EEEDE9&animation=fadeIn&fontAlignY=38&desc=GE%204120%20%7C%2021st%20Century%20IT%20Skills&descAlignY=60&descSize=20" width="100%" alt="Sofhia Dy header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=260&section=header&text=SOFHIA%20DY&fontSize=72&fontColor=EEEDE9&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A6%20GE%204120%20%C2%B7%2021st%20Century%20IT%20Skills%20%E2%9C%A6&descAlignY=58&descSize=20" width="100%" alt="Sofhia Dy header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=0052C9&center=true&vCenter=true&width=700&lines=Driven+%E2%98%85+Strivin+%E2%98%85+Livin+%E2%98%85+Thrivin;Creative+Student+%7C+Digital+Learner;Design+%7C+Technology+%7C+Innovation;Sofhia+with+the+unnecessary+H" alt="Animated tagline"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=0052C9&center=true&vCenter=true&width=700&lines=Driven+%E2%98%85+Strivin+%E2%98%85+Livin+%E2%98%85+Thrivin;Creative+Student+%7C+Digital+Learner;Design+%C2%B7+Technology+%C2%B7+Innovation;Sofhia+with+the+unnecessary+H" alt="Animated tagline"/>
 
-<br><br>
+<br>
 
 ![Portfolio](https://img.shields.io/badge/DIGITAL%20PORTFOLIO-GE%204120-0052C9?style=for-the-badge)
 ![Requirement](https://img.shields.io/badge/FINAL%20REQUIREMENT-2026-EEEDE9?style=for-the-badge&labelColor=0052C9)
 ![University](https://img.shields.io/badge/ATENEO%20DE%20DAVAO-BSN%204F-0052C9?style=for-the-badge)
-![Activities](https://img.shields.io/badge/PORTFOLIO-7%20ACTIVITIES-EEEDE9?style=for-the-badge&labelColor=0052C9)
+![Activities](https://img.shields.io/badge/7%20ACTIVITIES-COMPLETED-EEEDE9?style=for-the-badge&labelColor=0052C9)
 
 <br>
 
-[**About**](#-about-me) &nbsp;·&nbsp; [**Activities**](#-my-activities) &nbsp;·&nbsp; [**Gallery**](#️-portfolio-gallery) &nbsp;·&nbsp; [**Details**](#-activity-details) &nbsp;·&nbsp; [**Brand**](#-my-brand-identity) &nbsp;·&nbsp; [**Skills**](#️-tools--digital-skills) &nbsp;·&nbsp; [**Reflection**](#-reflection)
+<a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT-0052C9?style=flat-square" alt="About"/></a>
+<a href="#-my-activities"><img src="https://img.shields.io/badge/ACTIVITIES-EEEDE9?style=flat-square&labelColor=0052C9&color=EEEDE9&logoColor=0052C9" alt="Activities"/></a>
+<a href="#️-portfolio-gallery"><img src="https://img.shields.io/badge/GALLERY-0052C9?style=flat-square" alt="Gallery"/></a>
+<a href="#-activity-details"><img src="https://img.shields.io/badge/DETAILS-EEEDE9?style=flat-square&labelColor=0052C9&color=EEEDE9" alt="Details"/></a>
+<a href="#-my-brand-identity"><img src="https://img.shields.io/badge/BRAND-0052C9?style=flat-square" alt="Brand"/></a>
+<a href="#️-tools--digital-skills"><img src="https://img.shields.io/badge/SKILLS-EEEDE9?style=flat-square&labelColor=0052C9&color=EEEDE9" alt="Skills"/></a>
+<a href="#-reflection"><img src="https://img.shields.io/badge/REFLECTION-0052C9?style=flat-square" alt="Reflection"/></a>
 
 </div>
 
----
+<br>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0052C9&height=2&section=header" width="60%" alt=""/>
+
+<br>
 
 # ✦ WELCOME TO MY DIGITAL PORTFOLIO ✦
 
 **A collection of creativity, design, digital skills, ideas, and learning experiences.**
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0052C9&height=2&section=header" width="60%" alt=""/>
+
 </div>
+
+<br>
 
 This digital portfolio showcases my work, activities, projects, and learning experiences in **GE 4120 – 21st Century IT Skills**. Throughout the course, I explored how technology, creativity, communication, and digital tools can come together to create meaningful and engaging outputs.
 
 From presentation design and branding to digital projects, documentation, and AI-assisted work, each activity was an opportunity to sharpen my skills, explore ideas, and improve how I communicate visually and digitally.
 
+<br>
+
+<div align="center">
+
+| 🎨 **7** | 🖌️ **2** | 🤖 **2** | 🎓 **1** |
+|:---:|:---:|:---:|:---:|
+| Activities | Brand Colors | AI Tools Compared | Course |
+| *designed & documented* | *Blue · Off-White* | *ChatGPT · Claude* | *GE 4120* |
+
+</div>
+
+<br>
+
 ---
 
-# 🪞 ABOUT ME
+<br>
 
-<img align="right" width="200" src="./IMAGES/sofhia-portrait-1.jpg" alt="Portrait of Sofhia Angela L. Dy"/>
+<div align="center">
 
-Hi! I'm **Sofhia Angela L. Dy**, a Nursing student of Ateneo de Davao University (BSN 4F).
+## ✦ 01 · ABOUT ME ✦
+
+</div>
+
+<img align="right" width="210" src="./IMAGES/sofhia-portrait-1.jpg" alt="Portrait of Sofhia Angela L. Dy"/>
+
+Hi! I'm **Sofhia Angela L. Dy**, a Nursing student of **Ateneo de Davao University** (BSN 4F).
 
 I enjoy exploring creative ideas, learning new digital tools, and turning concepts into visually appealing and meaningful outputs. This portfolio documents my growth in using technology for creativity, communication, productivity, and innovation.
 
-> *Technology is not only about knowing how to use tools. It is about understanding how to use them with purpose.*
+> *"Technology is not only about knowing how to use tools. It is about understanding how to use them with purpose."*
 
-### ✧ A little about me
+**✧ A little about me**
 
-- 🎓 Student of Ateneo de Davao University
-- 💻 Exploring digital technology and IT skills
-- 🎨 Interested in creativity, design, branding, and visual communication
-- ✨ Learning how to use digital tools more effectively
-- 🧠 Open to new ideas, challenges, and learning experiences
+- 🎓 &nbsp;Student of Ateneo de Davao University
+- 💻 &nbsp;Exploring digital technology and IT skills
+- 🎨 &nbsp;Interested in creativity, design, branding, and visual communication
+- ✨ &nbsp;Learning how to use digital tools more effectively
+- 🧠 &nbsp;Open to new ideas, challenges, and learning experiences
 
 <br clear="right"/>
 
+<br>
+
 ---
 
-# 📚 MY ACTIVITIES
+<br>
 
 <div align="center">
 
-| # | ACTIVITY | DESCRIPTION | OUTPUT |
+## ✦ 02 · MY ACTIVITIES ✦
+
+*Seven activities, seven ways of learning.*
+
+<br>
+
+| № | ACTIVITY | WHAT I DID | OUTPUT |
 |:---:|:---|:---|:---:|
-| **1** | ☕ **Presentation Design Principles** | Promotional flyer design focusing on visual hierarchy, contrast, composition, and communication. | [View →](./Activity-1/README.md) |
-| **2** | 🎨 **Color Palette & Typography** | Development of a personal brand identity using color, typography, and visual consistency. | [View →](./Activity-2/README.md) |
-| **3** | 🩺 **Infographic & Project Documentation** | Visual communication of hospital waiting-time issues and the proposed MediQueue system. | [View →](./Activity-3/README.md) |
-| **4** | 📂 **Preliminary Examination** | Compilation and presentation of work, digital outputs, and examination-related portfolio material. | [View →](./Activity-4/README.md) |
-| **5** | 🧁 **Kapeng Umaga vs. Maison Miel** | Comparative creative and digital design project. | [View →](./Activity-5/README.md) |
-| **6** | 👜 **Likha Leather Works** | Digital business, design, and creative project. | [View →](./Activity-6/README.md) |
-| **7** | 🤖 **Comparative Resume Generation Using Multiple LLMs** | Comparison of AI-generated resumes using different AI platforms. | [View →](./Activity-7/README.md) |
+| **01** | ☕ **Presentation Design Principles** | Promotional flyer focusing on visual hierarchy, contrast, composition, and communication. | [**View →**](./Activity-1/README.md) |
+| **02** | 🎨 **Color Palette & Typography** | A personal brand identity built on color, typography, and visual consistency. | [**View →**](./Activity-2/README.md) |
+| **03** | 🩺 **Infographic & Project Documentation** | Visual communication of hospital waiting-time issues and the proposed MediQueue system. | [**View →**](./Activity-3/README.md) |
+| **04** | 📂 **Preliminary Examination** | Compilation of work, digital outputs, and examination-related portfolio material. | [**View →**](./Activity-4/README.md) |
+| **05** | 🧁 **Kapeng Umaga vs. Maison Miel** | A comparative creative and digital design project. | [**View →**](./Activity-5/README.md) |
+| **06** | 👜 **Likha Leather Works** | A digital business, design, and creative project. | [**View →**](./Activity-6/README.md) |
+| **07** | 🤖 **Comparative Resume Generation Using Multiple LLMs** | Comparing AI-generated resumes across different AI platforms. | [**View →**](./Activity-7/README.md) |
 
 </div>
+
+<br>
 
 ---
 
-# 🖼️ PORTFOLIO GALLERY
+<br>
 
 <div align="center">
 
-## ✦ A VISUAL LOOK AT MY WORK ✦
+## ✦ 03 · PORTFOLIO GALLERY ✦
+
+*A visual look at my work.*
 
 </div>
+
+<br>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-### ☕ ACTIVITY 1
+![01](https://img.shields.io/badge/ACTIVITY-01-0052C9?style=flat-square)
 
-<img src="./IMAGES/coffee-flyer.jpg" width="95%" alt="Coffee booth promotional flyer"/>
+<img src="./IMAGES/coffee-flyer.jpg" width="92%" alt="Coffee booth promotional flyer"/>
 
-**Presentation Design Principles**
+**☕ Presentation Design Principles**
 
-Promotional flyer highlighting contrast, visual hierarchy, imagery, and layout.
+<sub>Contrast · Hierarchy · Imagery · Layout</sub>
 
-[View Activity 1 →](./Activity-1/README.md)
-
-</td>
-
-<td align="center" width="50%">
-
-### 🎨 ACTIVITY 2
-
-<img src="./IMAGES/sd-brand-kit.jpg" width="95%" alt="SD personal brand kit"/>
-
-**Color Palette & Typography**
-
-Personal branding through color, typography, logo, and design consistency.
-
-[View Activity 2 →](./Activity-2/README.md)
+[View Activity →](./Activity-1/README.md)
 
 </td>
-</tr>
+<td align="center" width="50%" valign="top">
 
-<tr>
-<td align="center" width="50%">
+![02](https://img.shields.io/badge/ACTIVITY-02-EEEDE9?style=flat-square&labelColor=0052C9)
 
-### 🩺 ACTIVITY 3
+<img src="./IMAGES/sd-brand-kit.jpg" width="92%" alt="SD personal brand kit"/>
 
-<img src="./IMAGES/waiting-for-care-infographic.jpg" width="95%" alt="Waiting for Care infographic"/>
+**🎨 Color Palette & Typography**
 
-**Infographic & Documentation**
+<sub>Logo · Color · Type · Consistency</sub>
 
-Visual storytelling about hospital waiting times and the MediQueue proposal.
-
-[View Activity 3 →](./Activity-3/README.md)
-
-</td>
-
-<td align="center" width="50%">
-
-### 📂 ACTIVITY 4
-
-<img src="./IMAGES/activity-4.jpg" width="95%" alt="Activity 4 preliminary examination output"/>
-
-**Preliminary Examination**
-
-Digital portfolio work and examination-related output.
-
-[View Activity 4 →](./Activity-4/README.md)
+[View Activity →](./Activity-2/README.md)
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-### 🧁 ACTIVITY 5
+![03](https://img.shields.io/badge/ACTIVITY-03-0052C9?style=flat-square)
 
-<img src="./IMAGES/activity-5.jpg" width="95%" alt="Kapeng Umaga vs. Maison Miel comparison"/>
+<img src="./IMAGES/waiting-for-care-infographic.jpg" width="92%" alt="Waiting for Care infographic"/>
 
-**Kapeng Umaga vs. Maison Miel**
+**🩺 Infographic & Documentation**
 
-Creative comparison and digital design exploration.
+<sub>Waiting for Care · MediQueue</sub>
 
-[View Activity 5 →](./Activity-5/README.md)
+[View Activity →](./Activity-3/README.md)
 
 </td>
+<td align="center" width="50%" valign="top">
 
-<td align="center" width="50%">
+![04](https://img.shields.io/badge/ACTIVITY-04-EEEDE9?style=flat-square&labelColor=0052C9)
 
-### 👜 ACTIVITY 6
+<img src="./IMAGES/activity-4.jpg" width="92%" alt="Activity 4 preliminary examination output"/>
 
-<img src="./IMAGES/activity-6.jpg" width="95%" alt="Likha Leather Works project"/>
+**📂 Preliminary Examination**
 
-**Likha Leather Works**
+<sub>Digital portfolio & exam output</sub>
 
-Creative business and digital project development.
-
-[View Activity 6 →](./Activity-6/README.md)
+[View Activity →](./Activity-4/README.md)
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-### 🤖 ACTIVITY 7
+![05](https://img.shields.io/badge/ACTIVITY-05-0052C9?style=flat-square)
 
-<img src="./IMAGES/activity-7.jpg" width="95%" alt="Comparative resume generation using LLMs"/>
+<img src="./IMAGES/activity-5.jpg" width="92%" alt="Kapeng Umaga vs. Maison Miel comparison"/>
 
-**Comparative Resume Generation Using Multiple LLMs**
+**🧁 Kapeng Umaga vs. Maison Miel**
 
-Exploring AI-generated resume outputs and evaluating their differences.
+<sub>Creative comparison & design</sub>
 
-[View Activity 7 →](./Activity-7/README.md)
+[View Activity →](./Activity-5/README.md)
 
 </td>
+<td align="center" width="50%" valign="top">
 
-<td align="center" width="50%">
+![06](https://img.shields.io/badge/ACTIVITY-06-EEEDE9?style=flat-square&labelColor=0052C9)
 
-### ✨ MY DIGITAL JOURNEY
+<img src="./IMAGES/activity-6.jpg" width="92%" alt="Likha Leather Works project"/>
 
-<img src="./IMAGES/sofhia-portrait-2.jpg" width="95%" alt="Sofhia Angela L. Dy"/>
+**👜 Likha Leather Works**
 
-**Learning, Creating, and Exploring**
+<sub>Business & digital concept</sub>
 
-My journey in developing digital skills and creativity.
+[View Activity →](./Activity-6/README.md)
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%" valign="top">
+
+![07](https://img.shields.io/badge/ACTIVITY-07-0052C9?style=flat-square)
+
+<img src="./IMAGES/activity-7.jpg" width="92%" alt="Comparative resume generation using LLMs"/>
+
+**🤖 Resume Generation Using LLMs**
+
+<sub>ChatGPT vs. Claude</sub>
+
+[View Activity →](./Activity-7/README.md)
+
+</td>
+<td align="center" width="50%" valign="top">
+
+![Journey](https://img.shields.io/badge/MY-JOURNEY-EEEDE9?style=flat-square&labelColor=0052C9)
+
+<img src="./IMAGES/sofhia-portrait-2.jpg" width="92%" alt="Sofhia Angela L. Dy"/>
+
+**✨ Learning, Creating, Exploring**
+
+<sub>My digital journey</sub>
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
-
-# 📖 ACTIVITY DETAILS
-
-> 💡 Click any activity to expand it.
-
-<details>
-<summary><b>☕ ACTIVITY 1 — PRESENTATION DESIGN PRINCIPLES</b></summary>
 
 <br>
 
-### Overview
+<div align="center">
 
-Activity 1 applied fundamental presentation design principles through a promotional flyer for a free coffee booth at **Arrupe Hall, Booth 7**. The design aimed to communicate information quickly while staying visually engaging.
+## ✦ 04 · ACTIVITY DETAILS ✦
 
-### Design Principles Applied
+*Tap an activity to open it.*
+
+</div>
+
+<br>
+
+<details>
+<summary><b>☕ &nbsp;ACTIVITY 01 — PRESENTATION DESIGN PRINCIPLES</b></summary>
+
+<br>
+
+**Overview**
+
+Applied core presentation design principles through a promotional flyer for a free coffee booth at **Arrupe Hall, Booth 7**, communicating information quickly while staying visually engaging.
+
+**Design Principles Applied**
 
 | Principle | How it was used |
 |:---|:---|
@@ -227,158 +282,146 @@ Activity 1 applied fundamental presentation design principles through a promotio
 | **Imagery** | Using visuals to reinforce the message |
 | **Typography** | Choosing fonts for readability and tone |
 
-### Learning Experience
-
-Good design is more than decoration. It is about organizing information and guiding the viewer toward the most important message.
+> 💭 **Takeaway:** Good design is more than decoration. It organizes information and guides the viewer to the most important message.
 
 <div align="center">
-<img src="./IMAGES/coffee-flyer.jpg" width="70%" alt="Coffee booth promotional flyer"/>
+<img src="./IMAGES/coffee-flyer.jpg" width="65%" alt="Coffee booth promotional flyer"/>
 </div>
 
-[⬆ Back to top](#)
+<div align="right"><a href="#">↑ back to top</a></div>
 
 </details>
 
 <details>
-<summary><b>🎨 ACTIVITY 2 — COLOR PALETTE & TYPOGRAPHY</b></summary>
+<summary><b>🎨 &nbsp;ACTIVITY 02 — COLOR PALETTE & TYPOGRAPHY</b></summary>
 
 <br>
 
-### Overview
+**Overview**
 
-Activity 2 involved creating a personal brand identity using my initials, **SD**. The branding concept included a logo, business card, color palette, and typography reference.
+Created a personal brand identity from my initials, **SD**, including a logo, business card, color palette, and typography reference.
 
-### Brand Colors
+**Brand Colors**
 
-| COLOR | HEX | MEANING |
-|---|---|---|
+| Color | Hex | Meaning |
+|:---|:---:|:---|
 | 🟦 Blue | `#0052C9` | Trust, professionalism, confidence |
 | ⬜ Off-White | `#EEEDE9` | Simplicity, softness, modern aesthetic |
 
-### Typography
+**Typography**
 
-- **Montserrat** – bold, geometric, suited for headings.
-- **Fira Code** – clean, technical, and distinctive.
+- **Montserrat** – bold and geometric, suited for headings
+- **Fira Code** – clean, technical, and distinctive
 
-### Learning Experience
-
-Color, typography, and consistency work together to create a recognizable identity. A well-built brand system lets different design elements feel cohesive.
+> 💭 **Takeaway:** Color, typography, and consistency work together to build a recognizable identity.
 
 <div align="center">
-<img src="./IMAGES/sd-brand-kit.jpg" width="70%" alt="SD personal brand kit"/>
+<img src="./IMAGES/sd-brand-kit.jpg" width="65%" alt="SD personal brand kit"/>
 </div>
 
-[⬆ Back to top](#)
+<div align="right"><a href="#">↑ back to top</a></div>
 
 </details>
 
 <details>
-<summary><b>🩺 ACTIVITY 3 — INFOGRAPHIC & PROJECT DOCUMENTATION</b></summary>
+<summary><b>🩺 &nbsp;ACTIVITY 03 — INFOGRAPHIC & PROJECT DOCUMENTATION</b></summary>
 
 <br>
 
-### Overview
+**Overview**
 
-Activity 3 explored infographics as a way to communicate the problem of long hospital waiting times. The infographic, **Waiting for Care**, highlights delays in healthcare services and the need for more efficient patient management.
+Used an infographic, **Waiting for Care**, to communicate the problem of long hospital waiting times and the need for more efficient patient management.
 
-### Proposed IT Solution: MediQueue
+**Proposed IT Solution: MediQueue**
 
-MediQueue is a proposed digital patient queuing and scheduling system designed to improve patient flow and support efficient hospital operations.
+A digital patient queuing and scheduling system designed to improve patient flow and support efficient hospital operations.
 
-### Proposed Features
+| | Feature |
+|:---:|:---|
+| 📅 | Online booking and scheduling |
+| 📱 | QR-code check-in |
+| 👀 | Patient queue monitoring |
+| 🔔 | Real-time notifications |
+| 🖥️ | Centralized dashboard |
+| 📊 | Data analytics for patient flow |
 
-- 📅 Online booking and scheduling
-- 📱 QR-code check-in
-- 👀 Patient queue monitoring
-- 🔔 Real-time notifications
-- 🖥️ Centralized dashboard
-- 📊 Data analytics for patient flow
-
-### Learning Experience
-
-This activity showed me how technology can address real-world problems, and it combined research, information organization, visual design, and project documentation.
+> 💭 **Takeaway:** Technology can address real-world problems, and this activity combined research, information design, and documentation.
 
 <div align="center">
-<img src="./IMAGES/waiting-for-care-infographic.jpg" width="70%" alt="Waiting for Care infographic"/>
+<img src="./IMAGES/waiting-for-care-infographic.jpg" width="65%" alt="Waiting for Care infographic"/>
 </div>
 
-[⬆ Back to top](#)
+<div align="right"><a href="#">↑ back to top</a></div>
 
 </details>
 
 <details>
-<summary><b>📂 ACTIVITY 4 — PRELIMINARY EXAMINATION</b></summary>
+<summary><b>📂 &nbsp;ACTIVITY 04 — PRELIMINARY EXAMINATION</b></summary>
 
 <br>
 
-### Overview
+**Overview**
 
-This activity represents my preliminary examination work and the digital outputs developed throughout the course.
+My preliminary examination work and the digital outputs developed throughout the course.
 
-### Learning Experience
-
-It allowed me to consolidate the concepts, skills, and creative approaches I explored during the preliminary period.
+> 💭 **Takeaway:** It helped me consolidate the concepts, skills, and creative approaches I explored during the preliminary period.
 
 <div align="center">
-<img src="./IMAGES/activity-4.jpg" width="70%" alt="Activity 4 preliminary examination output"/>
+<img src="./IMAGES/activity-4.jpg" width="65%" alt="Activity 4 preliminary examination output"/>
 </div>
 
-[⬆ Back to top](#)
+<div align="right"><a href="#">↑ back to top</a></div>
 
 </details>
 
 <details>
-<summary><b>🧁 ACTIVITY 5 — KAPENG UMAGA VS. MAISON MIEL</b></summary>
+<summary><b>🧁 &nbsp;ACTIVITY 05 — KAPENG UMAGA VS. MAISON MIEL</b></summary>
 
 <br>
 
-### Overview
+**Overview**
 
-A creative comparison between Kapeng Umaga and Maison Miel, highlighting the role of visual presentation, creative direction, and digital design.
+A creative comparison between Kapeng Umaga and Maison Miel, highlighting visual presentation, creative direction, and digital design.
 
-### Learning Experience
-
-I explored how different visual approaches influence presentation, branding, and the way audiences perceive a concept.
+> 💭 **Takeaway:** Different visual approaches change how audiences perceive a brand or concept.
 
 <div align="center">
-<img src="./IMAGES/activity-5.jpg" width="70%" alt="Kapeng Umaga vs. Maison Miel comparison"/>
+<img src="./IMAGES/activity-5.jpg" width="65%" alt="Kapeng Umaga vs. Maison Miel comparison"/>
 </div>
 
-[⬆ Back to top](#)
+<div align="right"><a href="#">↑ back to top</a></div>
 
 </details>
 
 <details>
-<summary><b>👜 ACTIVITY 6 — LIKHA LEATHER WORKS</b></summary>
+<summary><b>👜 &nbsp;ACTIVITY 06 — LIKHA LEATHER WORKS</b></summary>
 
 <br>
 
-### Overview
+**Overview**
 
-Activity 6 focused on Likha Leather Works, involving creative and digital development of a business concept.
+Creative and digital development of a business concept, Likha Leather Works.
 
-### Learning Experience
-
-Digital tools and creative design can support business presentation, branding, communication, and the development of a digital concept.
+> 💭 **Takeaway:** Digital tools and creative design can strengthen business presentation, branding, and communication.
 
 <div align="center">
-<img src="./IMAGES/activity-6.jpg" width="70%" alt="Likha Leather Works project"/>
+<img src="./IMAGES/activity-6.jpg" width="65%" alt="Likha Leather Works project"/>
 </div>
 
-[⬆ Back to top](#)
+<div align="right"><a href="#">↑ back to top</a></div>
 
 </details>
 
 <details>
-<summary><b>🤖 ACTIVITY 7 — COMPARATIVE RESUME GENERATION USING MULTIPLE LLMs</b></summary>
+<summary><b>🤖 &nbsp;ACTIVITY 07 — COMPARATIVE RESUME GENERATION USING MULTIPLE LLMs</b></summary>
 
 <br>
 
-### Overview
+**Overview**
 
-Activity 7 compared resumes generated by different AI platforms from the same information, examining how each tool generates, structures, and presents a professional resume.
+Compared resumes generated by different AI platforms from the same information, looking at how each tool structures and presents a professional resume.
 
-### Comparison Focus
+**Comparison Focus**
 
 | Criteria | What was evaluated |
 |:---|:---|
@@ -389,100 +432,109 @@ Activity 7 compared resumes generated by different AI platforms from the same in
 | Professional Presentation | Overall impression and credibility |
 | Suitability | Fit for the intended position |
 
-### AI Tools Compared
+**AI Tools Compared:** &nbsp;`ChatGPT` &nbsp;·&nbsp; `Claude`
 
-- ChatGPT
-- Claude
-
-### Learning Experience
-
-AI tools can assist with productivity and content development, but their outputs still need human evaluation, editing, and refinement.
+> 💭 **Takeaway:** AI can boost productivity and content development, but its output still needs human evaluation, editing, and refinement.
 
 <div align="center">
-<img src="./IMAGES/activity-7.jpg" width="70%" alt="Comparative resume generation using LLMs"/>
+<img src="./IMAGES/activity-7.jpg" width="65%" alt="Comparative resume generation using LLMs"/>
 </div>
 
-[⬆ Back to top](#)
+<div align="right"><a href="#">↑ back to top</a></div>
 
 </details>
 
+<br>
+
 ---
 
-# 🎨 MY BRAND IDENTITY
+<br>
 
 <div align="center">
 
-<img src="./IMAGES/sd-logo.jpg" width="220" alt="SD logo"/>
+## ✦ 05 · MY BRAND IDENTITY ✦
+
+*Blue for trust. Off-white for simplicity.*
+
+<br>
+
+<img src="./IMAGES/sd-logo.jpg" width="200" alt="SD logo"/>
 
 <br><br>
 
-<img src="./IMAGES/sd-brand-kit.jpg" width="80%" alt="SD brand kit"/>
+<img src="./IMAGES/sd-brand-kit.jpg" width="75%" alt="SD brand kit"/>
 
-</div>
-
-### Color Palette
-
-<div align="center">
+<br><br>
 
 <table>
 <tr>
 <td align="center">
 
-<img src="https://placehold.co/200x100/0052C9/EEEDE9?text=BLUE" width="200" alt="Blue color swatch"/>
+<img src="https://placehold.co/220x110/0052C9/EEEDE9?text=BLUE" width="220" alt="Blue color swatch"/>
 
-**Blue**
-
-`#0052C9`
+**Blue**<br>`#0052C9`
 
 </td>
 <td align="center">
 
-<img src="https://placehold.co/200x100/EEEDE9/0052C9?text=OFF-WHITE" width="200" alt="Off-white color swatch"/>
+<img src="https://placehold.co/220x110/EEEDE9/0052C9?text=OFF-WHITE" width="220" alt="Off-white color swatch"/>
 
-**Off-White**
-
-`#EEEDE9`
+**Off-White**<br>`#EEEDE9`
 
 </td>
 </tr>
 </table>
 
-</div>
-
-### Typography
+<br>
 
 | FONT | PURPOSE |
-|---|---|
-| **Montserrat** | Headings and emphasis |
-| **Fira Code** | Technical and supporting text |
+|:---:|:---:|
+| **Montserrat** | Headings & emphasis |
+| `Fira Code` | Technical & supporting text |
+
+</div>
+
+<br>
 
 ---
 
-# 🛠️ TOOLS & DIGITAL SKILLS
+<br>
 
 <div align="center">
+
+## ✦ 06 · TOOLS & DIGITAL SKILLS ✦
+
+<br>
 
 ![Canva](https://img.shields.io/badge/Canva-0052C9?style=for-the-badge&logo=canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0052C9?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-0052C9?style=for-the-badge&logo=markdown&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-0052C9?style=for-the-badge)
-![Design](https://img.shields.io/badge/Presentation%20Design-0052C9?style=for-the-badge)
-![Typography](https://img.shields.io/badge/Typography-0052C9?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-EEEDE9?style=for-the-badge&labelColor=0052C9)
+![Design](https://img.shields.io/badge/Presentation%20Design-EEEDE9?style=for-the-badge&labelColor=0052C9)
+![Typography](https://img.shields.io/badge/Typography-EEEDE9?style=for-the-badge&labelColor=0052C9)
+
+<br>
+
+| AREA | SKILLS DEVELOPED |
+|:---:|:---|
+| 🎨 **Design** | Presentation design · Visual organization · Branding fundamentals · Typography |
+| 💬 **Communication** | Digital communication · Information presentation · Infographics |
+| 💻 **Technology** | AI-assisted content development · GitHub & Markdown · Digital portfolio management |
+| 🌱 **Mindset** | Creative thinking · Project documentation · Adaptability |
 
 </div>
 
-### Skills Developed
-
-| Area | Skills |
-|:---|:---|
-| **Design** | Presentation design · Visual organization · Branding fundamentals · Typography |
-| **Communication** | Digital communication · Information presentation · Infographics |
-| **Technology** | AI-assisted content development · GitHub and Markdown · Digital portfolio management |
-| **Mindset** | Creative thinking · Project documentation · Adaptability |
+<br>
 
 ---
 
-# 🌱 REFLECTION
+<br>
+
+<div align="center">
+
+## ✦ 07 · REFLECTION ✦
+
+</div>
 
 Throughout GE 4120, I discovered how digital tools can be used not only to complete academic requirements but also to express creativity, organize ideas, and solve problems.
 
@@ -492,23 +544,31 @@ This portfolio represents more than a collection of outputs. It reflects my lear
 
 I look forward to applying what I have learned to future academic and personal projects.
 
----
+<br>
 
 <div align="center">
 
-## ✦ DRIVEN · STRIVIN · LIVIN · THRIVIN ✦
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0052C9&height=2&section=header" width="60%" alt=""/>
+
+<br>
+
+### ✦ DRIVEN · STRIVIN · LIVIN · THRIVIN ✦
 
 *Creativity is not just what you make. It is how you think, communicate, and transform ideas into something meaningful.*
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0052C9&height=2&section=header" width="60%" alt=""/>
+
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=150&section=footer&text=SOFHIA%20ANGELA%20L.%20DY&fontSize=30&fontColor=EEEDE9&animation=fadeIn" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=170&section=footer&text=SOFHIA%20ANGELA%20L.%20DY&fontSize=30&fontColor=EEEDE9&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer banner"/>
 
-**GE 4120 | 21st Century IT Skills**
+**GE 4120 &nbsp;|&nbsp; 21st Century IT Skills**
 
 Ateneo de Davao University
 
