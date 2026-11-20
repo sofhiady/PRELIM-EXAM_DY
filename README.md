@@ -1,251 +1,193 @@
 
 <div align="center">
 
-# ✦ SOFHIA WITH THE UNNECESSARY "H" ✦
+# SOFHIA ANGELA L. DY
 
-### GE 4120 DIGITAL PORTFOLIO
+### GE 4120 · DIGITAL PORTFOLIO
 
-<p>
-  <em>A collection of creativity, digital skills, experiments, and learning.</em>
-</p>
+*Design · Creativity · Technology · Growth*
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="./IMAGES/sofhia-portrait-1.jpg" width="350" alt="Sofhia Angela Dy portrait"/>
+
+<br>
+
+> *A collection of ideas, designs, discoveries, and digital experiences.*
 
 </div>
 
-# ☁️ ABOUT ME
+---
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="images/about-me-1.jpg" width="100%" alt="About me photo 1">
-
-</td>
-<td width="50%" align="center">
-
-<img src="images/about-me-2.jpg" width="100%" alt="About me photo 2">
-
-</td>
-</tr>
-</table>
+## ✦ ABOUT ME ✦
 
 </div>
 
-> *"Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep."*
+Hi! I'm **Sofhia Angela L. Dy**, a student exploring the creative and technological world of digital design, multimedia, branding, and information technology through GE 4120.
 
-Hi! I'm **Sofhia**, a student exploring the intersection of creativity, technology, design, and digital communication.
+This portfolio showcases my activities, projects, and learning experiences throughout the course. Each output represents an opportunity to experiment with ideas, discover new digital tools, develop creative skills, and understand how design and technology work together in creating meaningful digital experiences.
 
-This portfolio is a reflection of my journey throughout **GE 4120** — a space where ideas are transformed into digital creations, where I explore different tools, experiment with designs, and develop skills that I can carry beyond the classroom.
-
-I believe that learning doesn't always have to be perfect. Sometimes, it starts with curiosity, trial and error, a little creativity, and the willingness to try something new.
-
-This digital portfolio contains the projects, activities, and lessons I have gathered throughout the course.
+I believe that creativity is not simply about making things look beautiful. It is also about communicating ideas, solving problems, and creating something that people can connect with.
 
 <div align="center">
 
-<sub>
-✦ DESIGN · CREATE · EXPLORE · LEARN ✦
-</sub>
+<img src="./IMAGES/sofhia-portrait-2.jpg" width="350" alt="Sofhia Angela Dy portrait 2"/>
+
+*Somewhere between creativity and curiosity.*
 
 </div>
 
 ---
 
-# 🎞️ THE PORTFOLIO ARCHIVE
+<div align="center">
 
-### A little overview of my journey
+# THE ARCHIVE
 
-| | |
-|---|---|
-| 📁 **Course** | GE 4120 |
-| 🎨 **Focus** | Digital Creativity, Design & Technology |
-| 📚 **Collection** | Activities 1–7 |
-| 🖥️ **Format** | Digital Portfolio |
-| ✦ **Theme** | Blue · Film · Creative Editorial |
+### A JOURNEY THROUGH ACTIVITIES 01–07
+
+*Scroll through the collection.*
+
+</div>
 
 ---
 
-# 📂 ACTIVITIES 01–07
+## 🎞 ACTIVITY 01
+### [Activity 1 — Presentation Design](./Activity-1/README.md)
 
-<details>
-<summary><strong>01 — Activity 1</strong> ✦ Click to explore</summary>
+> *The beginning of the creative process.*
 
-<br>
+This activity introduces the fundamentals of presentation design, organization of information, visual communication, and creating presentations that communicate ideas effectively.
 
-### ACTIVITY 01
+**What you'll find:**
+- Design principles
+- Visual presentation techniques
+- Information organization
+- Creative presentation development
 
-**[View Activity 1 →](Activity-1/README.md)**
-
-A documentation of my first activity in GE 4120, showcasing the concepts, skills, and creative process involved in completing the task.
-
-**What this activity represents:**
-
-- Introduction to the activity's core concepts
-- Application of digital skills
-- Exploration of creative possibilities
-- Reflection on the learning process
-
-</details>
+[↗ EXPLORE ACTIVITY 01](./Activity-1/README.md)
 
 ---
 
-<details>
-<summary><strong>02 — Activity 2</strong> ✦ Click to explore</summary>
+## 🎞 ACTIVITY 02
+### [Activity 2 — Digital Creativity](./Activity-2/README.md)
 
-<br>
+> *Ideas transformed into digital outputs.*
 
-### ACTIVITY 02
+This activity explores digital tools, creative processes, and the development of outputs that combine technology and creativity.
 
-**[View Activity 2 →](Activity-2/README.md)**
-
-An exploration of the tools, techniques, and creative decisions involved in the second activity, allowing me to develop my understanding of digital creation and design.
-
-**What this activity represents:**
-
-- Understanding the activity's objectives
-- Learning new digital techniques
-- Improving creativity and problem-solving
-- Applying knowledge through hands-on work
-
-</details>
-
----
-
-<details>
-<summary><strong>03 — Activity 3</strong> ✦ Click to explore</summary>
-
-<br>
-
-### ACTIVITY 03
-
-**[View Activity 3 →](Activity-3/README.md)**
-
-This activity reflects my learning and experimentation as I explored different concepts and applied them through a digital project.
-
-**What this activity represents:**
-
+**What you'll find:**
+- Digital tools and applications
 - Creative experimentation
-- Digital skills development
-- Learning through practice
-- Reflection and improvement
+- Digital production
+- Practical learning
 
-</details>
+[↗ EXPLORE ACTIVITY 02](./Activity-2/README.md)
 
 ---
 
-<details>
-<summary><strong>04 — Activity 4</strong> ✦ Click to explore</summary>
+## 🎞 ACTIVITY 03
+### [Activity 3 — Project Documentation](./Activity-3/README.md)
 
-<br>
+> *Behind every creative output is a process.*
 
-### ACTIVITY 04
+This activity focuses on documenting a project, organizing information, and communicating the different stages of development.
 
-**[View Activity 4 →](Activity-4/README.md)**
+**What you'll find:**
+- Project documentation
+- Organization of ideas
+- Planning and development
+- Documentation techniques
 
-A continuation of my digital learning journey, focusing on applying course concepts through a creative and practical activity.
+[↗ EXPLORE ACTIVITY 03](./Activity-3/README.md)
 
-**What this activity represents:**
+---
 
+## 🎞 ACTIVITY 04
+### [Activity 4 — Digital Design](./Activity-4/README.md)
+
+> *Designing with intention.*
+
+This activity highlights the importance of creativity, design choices, visual composition, and using digital tools to produce engaging outputs.
+
+**What you'll find:**
+- Design exploration
+- Visual composition
+- Digital design techniques
+- Creative problem-solving
+
+[↗ EXPLORE ACTIVITY 04](./Activity-4/README.md)
+
+---
+
+## 🎞 ACTIVITY 05
+### [Activity 5 — Multimedia and Visual Communication](./Activity-5/README.md)
+
+> *Visuals have a language of their own.*
+
+This activity explores how multimedia and visual elements can be used to communicate ideas, improve engagement, and deliver information creatively.
+
+**What you'll find:**
+- Visual communication
+- Multimedia concepts
+- Creative storytelling
+- Digital content
+
+[↗ EXPLORE ACTIVITY 05](./Activity-5/README.md)
+
+---
+
+## 🎞 ACTIVITY 06
+### [Activity 6 — Technology and Innovation](./Activity-6/README.md)
+
+> *Learning how technology shapes the way we create.*
+
+This activity highlights the role of technology, digital platforms, and innovation in developing practical and creative solutions.
+
+**What you'll find:**
+- Technology exploration
+- Digital innovation
+- Practical applications
+- Skills development
+
+[↗ EXPLORE ACTIVITY 06](./Activity-6/README.md)
+
+---
+
+## 🎞 ACTIVITY 07
+### [Activity 7 — Final Creative Output](./Activity-7/README.md)
+
+> *Everything learned, brought together.*
+
+This activity represents the culmination of the course's learning experiences, applying knowledge, creativity, and digital skills to produce a final output.
+
+**What you'll find:**
 - Application of learned concepts
-- Creativity and design thinking
-- Developing digital confidence
-- Practical problem-solving
+- Creative development
+- Digital skills
+- Reflection and growth
 
-</details>
-
----
-
-<details>
-<summary><strong>05 — Activity 5</strong> ✦ Click to explore</summary>
-
-<br>
-
-### ACTIVITY 05
-
-**[View Activity 5 →](Activity-5/README.md)**
-
-An opportunity to further explore digital tools, enhance my creative process, and reflect on how technology can be used to communicate ideas effectively.
-
-**What this activity represents:**
-
-- Digital exploration
-- Communication and creativity
-- Practical application
-- Continuous learning
-
-</details>
-
----
-
-<details>
-<summary><strong>06 — Activity 6</strong> ✦ Click to explore</summary>
-
-<br>
-
-### ACTIVITY 06
-
-**[View Activity 6 →](Activity-6/README.md)**
-
-This project showcases another step in my development as a digital learner, combining creativity, technical skills, and thoughtful execution.
-
-**What this activity represents:**
-
-- Digital content development
-- Creative thinking
-- Skill improvement
-- Learning from challenges
-
-</details>
-
----
-
-<details>
-<summary><strong>07 — Activity 7</strong> ✦ Click to explore</summary>
-
-<br>
-
-### ACTIVITY 07
-
-**[View Activity 7 →](Activity-7/README.md)**
-
-The final activity in this collection, representing the culmination of the lessons, experiences, and skills I have developed throughout the course.
-
-**What this activity represents:**
-
-- Integration of learned concepts
-- Creative application
-- Reflection on progress
-- Future opportunities for improvement
-
-</details>
-
----
-
-# ✦ WHAT I TAKE WITH ME
-
-Through these activities, I learned that digital work goes beyond simply completing a task. It involves understanding ideas, communicating them visually, experimenting with different tools, solving problems, and continuously improving.
-
-Each activity gave me an opportunity to explore something new and develop a better understanding of how technology and creativity can work together.
-
-This portfolio is not just a collection of outputs. It is a record of my progress, my experiments, and the things I learned along the way.
+[↗ EXPLORE ACTIVITY 07](./Activity-7/README.md)
 
 ---
 
 <div align="center">
 
-## 🎬 END OF THE COLLECTION
+---
 
-*Seven activities. Countless ideas. One learning journey.*
+## ✦ THE CREATIVE PROCESS ✦
 
-<br>
+**IDEA → EXPLORE → CREATE → REFINE → PRESENT**
 
-**SOFHIA WITH THE UNNECESSARY "H"**
+Every activity is a reminder that learning is a continuous process of experimentation, improvement, and discovery.
 
-<sub>GE 4120 · DIGITAL PORTFOLIO</sub>
+---
 
-<sub>✦ EST. 2005 ✦</sub>
+### THANK YOU FOR VISITING MY DIGITAL PORTFOLIO
+
+*Created with creativity, curiosity, and a little bit of blue.*
+
+**SOFHIA ANGELA L. DY**
+
+GE 4120 · DIGITAL PORTFOLIO
 
 </div>
