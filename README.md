@@ -1,25 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=260&section=header&text=SOFHIA%20DY&fontSize=72&fontColor=EEEDE9&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A6%20GE%204120%20%C2%B7%2021st%20Century%20IT%20Skills%20%E2%9C%A6&descAlignY=58&descSize=20" width="100%" alt="Sofhia Dy header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=270&section=header&text=SOFHIA%20DY&fontSize=74&fontColor=EEEDE9&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A6%20GE%204120%20%C2%B7%2021st%20Century%20IT%20Skills%20%E2%9C%A6&descAlignY=58&descSize=20&descColor=F2B84B" width="100%" alt="Sofhia Dy header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=0052C9&center=true&vCenter=true&width=700&lines=Driven+%E2%98%85+Strivin+%E2%98%85+Livin+%E2%98%85+Thrivin;Creative+Student+%7C+Digital+Learner;Design+%C2%B7+Technology+%C2%B7+Innovation;Sofhia+with+the+unnecessary+H" alt="Animated tagline"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=1000&color=0052C9&center=true&vCenter=true&width=720&lines=Driven+%E2%98%85+Strivin+%E2%98%85+Livin+%E2%98%85+Thrivin;Creative+Student+%7C+Digital+Learner;Design+%C2%B7+Technology+%C2%B7+Innovation;Sofhia+with+the+unnecessary+H" alt="Animated tagline"/>
 
 <br>
+
+<img src="https://placehold.co/70x6/0052C9/0052C9" alt=""/><img src="https://placehold.co/70x6/5BA8FF/5BA8FF" alt=""/><img src="https://placehold.co/70x6/8E9BFF/8E9BFF" alt=""/><img src="https://placehold.co/70x6/F2B84B/F2B84B" alt=""/><img src="https://placehold.co/70x6/FF7A6B/FF7A6B" alt=""/><img src="https://placehold.co/70x6/5CD6B0/5CD6B0" alt=""/>
+
+<br><br>
 
 ![Portfolio](https://img.shields.io/badge/DIGITAL%20PORTFOLIO-GE%204120-0052C9?style=for-the-badge)
-![Requirement](https://img.shields.io/badge/FINAL%20REQUIREMENT-2026-EEEDE9?style=for-the-badge&labelColor=0052C9)
-![University](https://img.shields.io/badge/ATENEO%20DE%20DAVAO-BSN%204F-0052C9?style=for-the-badge)
-![Activities](https://img.shields.io/badge/7%20ACTIVITIES-COMPLETED-EEEDE9?style=for-the-badge&labelColor=0052C9)
+![Requirement](https://img.shields.io/badge/FINAL%20REQUIREMENT-2026-F2B84B?style=for-the-badge&labelColor=0052C9)
+![University](https://img.shields.io/badge/ATENEO%20DE%20DAVAO-BSN%204F-5BA8FF?style=for-the-badge&labelColor=0052C9)
+![Activities](https://img.shields.io/badge/7%20ACTIVITIES-COMPLETED-FF7A6B?style=for-the-badge&labelColor=0052C9)
 
 <br>
 
-<a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT-0052C9?style=flat-square" alt="About"/></a>
-<a href="#-my-activities"><img src="https://img.shields.io/badge/ACTIVITIES-EEEDE9?style=flat-square&labelColor=0052C9&color=EEEDE9&logoColor=0052C9" alt="Activities"/></a>
-<a href="#️-portfolio-gallery"><img src="https://img.shields.io/badge/GALLERY-0052C9?style=flat-square" alt="Gallery"/></a>
-<a href="#-activity-details"><img src="https://img.shields.io/badge/DETAILS-EEEDE9?style=flat-square&labelColor=0052C9&color=EEEDE9" alt="Details"/></a>
-<a href="#-my-brand-identity"><img src="https://img.shields.io/badge/BRAND-0052C9?style=flat-square" alt="Brand"/></a>
-<a href="#️-tools--digital-skills"><img src="https://img.shields.io/badge/SKILLS-EEEDE9?style=flat-square&labelColor=0052C9&color=EEEDE9" alt="Skills"/></a>
-<a href="#-reflection"><img src="https://img.shields.io/badge/REFLECTION-0052C9?style=flat-square" alt="Reflection"/></a>
+<a href="#-01--about-me"><img src="https://img.shields.io/badge/ABOUT-0052C9?style=flat-square" alt="About"/></a>
+<a href="#-02--my-activities"><img src="https://img.shields.io/badge/ACTIVITIES-5BA8FF?style=flat-square" alt="Activities"/></a>
+<a href="#-03--portfolio-gallery"><img src="https://img.shields.io/badge/GALLERY-8E9BFF?style=flat-square" alt="Gallery"/></a>
+<a href="#-04--activity-details"><img src="https://img.shields.io/badge/DETAILS-F2B84B?style=flat-square" alt="Details"/></a>
+<a href="#-05--my-brand-identity"><img src="https://img.shields.io/badge/BRAND-FF7A6B?style=flat-square" alt="Brand"/></a>
+<a href="#-06--tools--digital-skills"><img src="https://img.shields.io/badge/SKILLS-5CD6B0?style=flat-square" alt="Skills"/></a>
+<a href="#-07--reflection"><img src="https://img.shields.io/badge/REFLECTION-0052C9?style=flat-square" alt="Reflection"/></a>
 
 </div>
 
@@ -27,17 +31,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0052C9&height=2&section=header" width="60%" alt=""/>
-
-<br>
-
-# ✦ WELCOME TO MY DIGITAL PORTFOLIO ✦
+<img src="https://img.shields.io/badge/%E2%9C%A6%20WELCOME%20TO%20MY%20DIGITAL%20PORTFOLIO%20%E2%9C%A6-0052C9?style=for-the-badge" alt="Welcome"/>
 
 **A collection of creativity, design, digital skills, ideas, and learning experiences.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0052C9&height=2&section=header" width="60%" alt=""/>
 
 </div>
 
@@ -51,22 +47,54 @@ From presentation design and branding to digital projects, documentation, and AI
 
 <div align="center">
 
-| 🎨 **7** | 🖌️ **2** | 🤖 **2** | 🎓 **1** |
-|:---:|:---:|:---:|:---:|
-| Activities | Brand Colors | AI Tools Compared | Course |
-| *designed & documented* | *Blue · Off-White* | *ChatGPT · Claude* | *GE 4120* |
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://placehold.co/160x70/0052C9/EEEDE9?text=7&font=montserrat" width="160" alt="7"/>
+
+**Activities**<br><sub>designed & documented</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://placehold.co/160x70/F2B84B/0052C9?text=6&font=montserrat" width="160" alt="6"/>
+
+**Palette Colors**<br><sub>blue · gold · coral & more</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://placehold.co/160x70/FF7A6B/FFFFFF?text=2&font=montserrat" width="160" alt="2"/>
+
+**AI Tools Compared**<br><sub>ChatGPT · Claude</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://placehold.co/160x70/5CD6B0/0052C9?text=1&font=montserrat" width="160" alt="1"/>
+
+**Course**<br><sub>GE 4120</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
----
+<div align="center">
+<img src="https://placehold.co/70x4/0052C9/0052C9" alt=""/><img src="https://placehold.co/70x4/5BA8FF/5BA8FF" alt=""/><img src="https://placehold.co/70x4/8E9BFF/8E9BFF" alt=""/><img src="https://placehold.co/70x4/F2B84B/F2B84B" alt=""/><img src="https://placehold.co/70x4/FF7A6B/FF7A6B" alt=""/><img src="https://placehold.co/70x4/5CD6B0/5CD6B0" alt=""/>
+</div>
 
 <br>
 
 <div align="center">
 
 ## ✦ 01 · ABOUT ME ✦
+
+<img src="https://img.shields.io/badge/BSN%204F-ATENEO%20DE%20DAVAO-5BA8FF?style=flat-square&labelColor=0052C9" alt="BSN 4F"/>
 
 </div>
 
@@ -76,7 +104,7 @@ Hi! I'm **Sofhia Angela L. Dy**, a Nursing student of **Ateneo de Davao Universi
 
 I enjoy exploring creative ideas, learning new digital tools, and turning concepts into visually appealing and meaningful outputs. This portfolio documents my growth in using technology for creativity, communication, productivity, and innovation.
 
-> *"Technology is not only about knowing how to use tools. It is about understanding how to use them with purpose."*
+> 🪞 *"Technology is not only about knowing how to use tools. It is about understanding how to use them with purpose."*
 
 **✧ A little about me**
 
@@ -90,7 +118,9 @@ I enjoy exploring creative ideas, learning new digital tools, and turning concep
 
 <br>
 
----
+<div align="center">
+<img src="https://placehold.co/70x4/0052C9/0052C9" alt=""/><img src="https://placehold.co/70x4/5BA8FF/5BA8FF" alt=""/><img src="https://placehold.co/70x4/8E9BFF/8E9BFF" alt=""/><img src="https://placehold.co/70x4/F2B84B/F2B84B" alt=""/><img src="https://placehold.co/70x4/FF7A6B/FF7A6B" alt=""/><img src="https://placehold.co/70x4/5CD6B0/5CD6B0" alt=""/>
+</div>
 
 <br>
 
@@ -102,21 +132,23 @@ I enjoy exploring creative ideas, learning new digital tools, and turning concep
 
 <br>
 
-| № | ACTIVITY | WHAT I DID | OUTPUT |
+| | ACTIVITY | WHAT I DID | OUTPUT |
 |:---:|:---|:---|:---:|
-| **01** | ☕ **Presentation Design Principles** | Promotional flyer focusing on visual hierarchy, contrast, composition, and communication. | [**View →**](./Activity-1/README.md) |
-| **02** | 🎨 **Color Palette & Typography** | A personal brand identity built on color, typography, and visual consistency. | [**View →**](./Activity-2/README.md) |
-| **03** | 🩺 **Infographic & Project Documentation** | Visual communication of hospital waiting-time issues and the proposed MediQueue system. | [**View →**](./Activity-3/README.md) |
-| **04** | 📂 **Preliminary Examination** | Compilation of work, digital outputs, and examination-related portfolio material. | [**View →**](./Activity-4/README.md) |
-| **05** | 🧁 **Kapeng Umaga vs. Maison Miel** | A comparative creative and digital design project. | [**View →**](./Activity-5/README.md) |
-| **06** | 👜 **Likha Leather Works** | A digital business, design, and creative project. | [**View →**](./Activity-6/README.md) |
-| **07** | 🤖 **Comparative Resume Generation Using Multiple LLMs** | Comparing AI-generated resumes across different AI platforms. | [**View →**](./Activity-7/README.md) |
+| ![01](https://img.shields.io/badge/01-0052C9?style=flat-square) | ☕ **Presentation Design Principles** | Promotional flyer focusing on visual hierarchy, contrast, composition, and communication. | [**View →**](./Activity-1/README.md) |
+| ![02](https://img.shields.io/badge/02-5BA8FF?style=flat-square) | 🎨 **Color Palette & Typography** | A personal brand identity built on color, typography, and visual consistency. | [**View →**](./Activity-2/README.md) |
+| ![03](https://img.shields.io/badge/03-8E9BFF?style=flat-square) | 🩺 **Infographic & Project Documentation** | Visual communication of hospital waiting-time issues and the proposed MediQueue system. | [**View →**](./Activity-3/README.md) |
+| ![04](https://img.shields.io/badge/04-F2B84B?style=flat-square) | 📂 **Preliminary Examination** | Compilation of work, digital outputs, and examination-related portfolio material. | [**View →**](./Activity-4/README.md) |
+| ![05](https://img.shields.io/badge/05-FF7A6B?style=flat-square) | 🧁 **Kapeng Umaga vs. Maison Miel** | A comparative creative and digital design project. | [**View →**](./Activity-5/README.md) |
+| ![06](https://img.shields.io/badge/06-5CD6B0?style=flat-square) | 👜 **Likha Leather Works** | A digital business, design, and creative project. | [**View →**](./Activity-6/README.md) |
+| ![07](https://img.shields.io/badge/07-0052C9?style=flat-square) | 🤖 **Comparative Resume Generation Using Multiple LLMs** | Comparing AI-generated resumes across different AI platforms. | [**View →**](./Activity-7/README.md) |
 
 </div>
 
 <br>
 
----
+<div align="center">
+<img src="https://placehold.co/70x4/0052C9/0052C9" alt=""/><img src="https://placehold.co/70x4/5BA8FF/5BA8FF" alt=""/><img src="https://placehold.co/70x4/8E9BFF/8E9BFF" alt=""/><img src="https://placehold.co/70x4/F2B84B/F2B84B" alt=""/><img src="https://placehold.co/70x4/FF7A6B/FF7A6B" alt=""/><img src="https://placehold.co/70x4/5CD6B0/5CD6B0" alt=""/>
+</div>
 
 <br>
 
@@ -134,7 +166,7 @@ I enjoy exploring creative ideas, learning new digital tools, and turning concep
 <tr>
 <td align="center" width="50%" valign="top">
 
-![01](https://img.shields.io/badge/ACTIVITY-01-0052C9?style=flat-square)
+![01](https://img.shields.io/badge/ACTIVITY-01-0052C9?style=for-the-badge)
 
 <img src="./IMAGES/coffee-flyer.jpg" width="92%" alt="Coffee booth promotional flyer"/>
 
@@ -147,7 +179,7 @@ I enjoy exploring creative ideas, learning new digital tools, and turning concep
 </td>
 <td align="center" width="50%" valign="top">
 
-![02](https://img.shields.io/badge/ACTIVITY-02-EEEDE9?style=flat-square&labelColor=0052C9)
+![02](https://img.shields.io/badge/ACTIVITY-02-5BA8FF?style=for-the-badge)
 
 <img src="./IMAGES/sd-brand-kit.jpg" width="92%" alt="SD personal brand kit"/>
 
@@ -163,7 +195,7 @@ I enjoy exploring creative ideas, learning new digital tools, and turning concep
 <tr>
 <td align="center" width="50%" valign="top">
 
-![03](https://img.shields.io/badge/ACTIVITY-03-0052C9?style=flat-square)
+![03](https://img.shields.io/badge/ACTIVITY-03-8E9BFF?style=for-the-badge)
 
 <img src="./IMAGES/waiting-for-care-infographic.jpg" width="92%" alt="Waiting for Care infographic"/>
 
@@ -176,7 +208,7 @@ I enjoy exploring creative ideas, learning new digital tools, and turning concep
 </td>
 <td align="center" width="50%" valign="top">
 
-![04](https://img.shields.io/badge/ACTIVITY-04-EEEDE9?style=flat-square&labelColor=0052C9)
+![04](https://img.shields.io/badge/ACTIVITY-04-F2B84B?style=for-the-badge)
 
 <img src="./IMAGES/activity-4.jpg" width="92%" alt="Activity 4 preliminary examination output"/>
 
@@ -192,7 +224,7 @@ I enjoy exploring creative ideas, learning new digital tools, and turning concep
 <tr>
 <td align="center" width="50%" valign="top">
 
-![05](https://img.shields.io/badge/ACTIVITY-05-0052C9?style=flat-square)
+![05](https://img.shields.io/badge/ACTIVITY-05-FF7A6B?style=for-the-badge)
 
 <img src="./IMAGES/activity-5.jpg" width="92%" alt="Kapeng Umaga vs. Maison Miel comparison"/>
 
@@ -205,7 +237,7 @@ I enjoy exploring creative ideas, learning new digital tools, and turning concep
 </td>
 <td align="center" width="50%" valign="top">
 
-![06](https://img.shields.io/badge/ACTIVITY-06-EEEDE9?style=flat-square&labelColor=0052C9)
+![06](https://img.shields.io/badge/ACTIVITY-06-5CD6B0?style=for-the-badge)
 
 <img src="./IMAGES/activity-6.jpg" width="92%" alt="Likha Leather Works project"/>
 
@@ -221,7 +253,7 @@ I enjoy exploring creative ideas, learning new digital tools, and turning concep
 <tr>
 <td align="center" width="50%" valign="top">
 
-![07](https://img.shields.io/badge/ACTIVITY-07-0052C9?style=flat-square)
+![07](https://img.shields.io/badge/ACTIVITY-07-0052C9?style=for-the-badge)
 
 <img src="./IMAGES/activity-7.jpg" width="92%" alt="Comparative resume generation using LLMs"/>
 
@@ -234,7 +266,7 @@ I enjoy exploring creative ideas, learning new digital tools, and turning concep
 </td>
 <td align="center" width="50%" valign="top">
 
-![Journey](https://img.shields.io/badge/MY-JOURNEY-EEEDE9?style=flat-square&labelColor=0052C9)
+![Journey](https://img.shields.io/badge/MY-JOURNEY-F2B84B?style=for-the-badge&labelColor=0052C9)
 
 <img src="./IMAGES/sofhia-portrait-2.jpg" width="92%" alt="Sofhia Angela L. Dy"/>
 
@@ -248,7 +280,9 @@ I enjoy exploring creative ideas, learning new digital tools, and turning concep
 
 <br>
 
----
+<div align="center">
+<img src="https://placehold.co/70x4/0052C9/0052C9" alt=""/><img src="https://placehold.co/70x4/5BA8FF/5BA8FF" alt=""/><img src="https://placehold.co/70x4/8E9BFF/8E9BFF" alt=""/><img src="https://placehold.co/70x4/F2B84B/F2B84B" alt=""/><img src="https://placehold.co/70x4/FF7A6B/FF7A6B" alt=""/><img src="https://placehold.co/70x4/5CD6B0/5CD6B0" alt=""/>
+</div>
 
 <br>
 
@@ -267,11 +301,11 @@ I enjoy exploring creative ideas, learning new digital tools, and turning concep
 
 <br>
 
-**Overview**
+![Overview](https://img.shields.io/badge/OVERVIEW-0052C9?style=flat-square)
 
 Applied core presentation design principles through a promotional flyer for a free coffee booth at **Arrupe Hall, Booth 7**, communicating information quickly while staying visually engaging.
 
-**Design Principles Applied**
+![Principles](https://img.shields.io/badge/DESIGN%20PRINCIPLES-5BA8FF?style=flat-square)
 
 | Principle | How it was used |
 |:---|:---|
@@ -282,7 +316,9 @@ Applied core presentation design principles through a promotional flyer for a fr
 | **Imagery** | Using visuals to reinforce the message |
 | **Typography** | Choosing fonts for readability and tone |
 
-> 💭 **Takeaway:** Good design is more than decoration. It organizes information and guides the viewer to the most important message.
+![Takeaway](https://img.shields.io/badge/TAKEAWAY-F2B84B?style=flat-square)
+
+> 💭 Good design is more than decoration. It organizes information and guides the viewer to the most important message.
 
 <div align="center">
 <img src="./IMAGES/coffee-flyer.jpg" width="65%" alt="Coffee booth promotional flyer"/>
@@ -297,23 +333,25 @@ Applied core presentation design principles through a promotional flyer for a fr
 
 <br>
 
-**Overview**
+![Overview](https://img.shields.io/badge/OVERVIEW-0052C9?style=flat-square)
 
 Created a personal brand identity from my initials, **SD**, including a logo, business card, color palette, and typography reference.
 
-**Brand Colors**
+![Colors](https://img.shields.io/badge/BRAND%20COLORS-5BA8FF?style=flat-square)
 
 | Color | Hex | Meaning |
 |:---|:---:|:---|
 | 🟦 Blue | `#0052C9` | Trust, professionalism, confidence |
 | ⬜ Off-White | `#EEEDE9` | Simplicity, softness, modern aesthetic |
 
-**Typography**
+![Typography](https://img.shields.io/badge/TYPOGRAPHY-8E9BFF?style=flat-square)
 
 - **Montserrat** – bold and geometric, suited for headings
 - **Fira Code** – clean, technical, and distinctive
 
-> 💭 **Takeaway:** Color, typography, and consistency work together to build a recognizable identity.
+![Takeaway](https://img.shields.io/badge/TAKEAWAY-F2B84B?style=flat-square)
+
+> 💭 Color, typography, and consistency work together to build a recognizable identity.
 
 <div align="center">
 <img src="./IMAGES/sd-brand-kit.jpg" width="65%" alt="SD personal brand kit"/>
@@ -328,11 +366,11 @@ Created a personal brand identity from my initials, **SD**, including a logo, bu
 
 <br>
 
-**Overview**
+![Overview](https://img.shields.io/badge/OVERVIEW-0052C9?style=flat-square)
 
 Used an infographic, **Waiting for Care**, to communicate the problem of long hospital waiting times and the need for more efficient patient management.
 
-**Proposed IT Solution: MediQueue**
+![MediQueue](https://img.shields.io/badge/PROPOSED%20SOLUTION-MEDIQUEUE-5CD6B0?style=flat-square)
 
 A digital patient queuing and scheduling system designed to improve patient flow and support efficient hospital operations.
 
@@ -345,7 +383,9 @@ A digital patient queuing and scheduling system designed to improve patient flow
 | 🖥️ | Centralized dashboard |
 | 📊 | Data analytics for patient flow |
 
-> 💭 **Takeaway:** Technology can address real-world problems, and this activity combined research, information design, and documentation.
+![Takeaway](https://img.shields.io/badge/TAKEAWAY-F2B84B?style=flat-square)
+
+> 💭 Technology can address real-world problems, and this activity combined research, information design, and documentation.
 
 <div align="center">
 <img src="./IMAGES/waiting-for-care-infographic.jpg" width="65%" alt="Waiting for Care infographic"/>
@@ -360,11 +400,13 @@ A digital patient queuing and scheduling system designed to improve patient flow
 
 <br>
 
-**Overview**
+![Overview](https://img.shields.io/badge/OVERVIEW-0052C9?style=flat-square)
 
 My preliminary examination work and the digital outputs developed throughout the course.
 
-> 💭 **Takeaway:** It helped me consolidate the concepts, skills, and creative approaches I explored during the preliminary period.
+![Takeaway](https://img.shields.io/badge/TAKEAWAY-F2B84B?style=flat-square)
+
+> 💭 It helped me consolidate the concepts, skills, and creative approaches I explored during the preliminary period.
 
 <div align="center">
 <img src="./IMAGES/activity-4.jpg" width="65%" alt="Activity 4 preliminary examination output"/>
@@ -379,11 +421,13 @@ My preliminary examination work and the digital outputs developed throughout the
 
 <br>
 
-**Overview**
+![Overview](https://img.shields.io/badge/OVERVIEW-0052C9?style=flat-square)
 
 A creative comparison between Kapeng Umaga and Maison Miel, highlighting visual presentation, creative direction, and digital design.
 
-> 💭 **Takeaway:** Different visual approaches change how audiences perceive a brand or concept.
+![Takeaway](https://img.shields.io/badge/TAKEAWAY-F2B84B?style=flat-square)
+
+> 💭 Different visual approaches change how audiences perceive a brand or concept.
 
 <div align="center">
 <img src="./IMAGES/activity-5.jpg" width="65%" alt="Kapeng Umaga vs. Maison Miel comparison"/>
@@ -398,11 +442,13 @@ A creative comparison between Kapeng Umaga and Maison Miel, highlighting visual 
 
 <br>
 
-**Overview**
+![Overview](https://img.shields.io/badge/OVERVIEW-0052C9?style=flat-square)
 
 Creative and digital development of a business concept, Likha Leather Works.
 
-> 💭 **Takeaway:** Digital tools and creative design can strengthen business presentation, branding, and communication.
+![Takeaway](https://img.shields.io/badge/TAKEAWAY-F2B84B?style=flat-square)
+
+> 💭 Digital tools and creative design can strengthen business presentation, branding, and communication.
 
 <div align="center">
 <img src="./IMAGES/activity-6.jpg" width="65%" alt="Likha Leather Works project"/>
@@ -417,11 +463,11 @@ Creative and digital development of a business concept, Likha Leather Works.
 
 <br>
 
-**Overview**
+![Overview](https://img.shields.io/badge/OVERVIEW-0052C9?style=flat-square)
 
 Compared resumes generated by different AI platforms from the same information, looking at how each tool structures and presents a professional resume.
 
-**Comparison Focus**
+![Focus](https://img.shields.io/badge/COMPARISON%20FOCUS-5BA8FF?style=flat-square)
 
 | Criteria | What was evaluated |
 |:---|:---|
@@ -432,9 +478,11 @@ Compared resumes generated by different AI platforms from the same information, 
 | Professional Presentation | Overall impression and credibility |
 | Suitability | Fit for the intended position |
 
-**AI Tools Compared:** &nbsp;`ChatGPT` &nbsp;·&nbsp; `Claude`
+![Tools](https://img.shields.io/badge/AI%20TOOLS-ChatGPT-5CD6B0?style=flat-square) ![Tools](https://img.shields.io/badge/AI%20TOOLS-Claude-FF7A6B?style=flat-square)
 
-> 💭 **Takeaway:** AI can boost productivity and content development, but its output still needs human evaluation, editing, and refinement.
+![Takeaway](https://img.shields.io/badge/TAKEAWAY-F2B84B?style=flat-square)
+
+> 💭 AI can boost productivity and content development, but its output still needs human evaluation, editing, and refinement.
 
 <div align="center">
 <img src="./IMAGES/activity-7.jpg" width="65%" alt="Comparative resume generation using LLMs"/>
@@ -446,7 +494,9 @@ Compared resumes generated by different AI platforms from the same information, 
 
 <br>
 
----
+<div align="center">
+<img src="https://placehold.co/70x4/0052C9/0052C9" alt=""/><img src="https://placehold.co/70x4/5BA8FF/5BA8FF" alt=""/><img src="https://placehold.co/70x4/8E9BFF/8E9BFF" alt=""/><img src="https://placehold.co/70x4/F2B84B/F2B84B" alt=""/><img src="https://placehold.co/70x4/FF7A6B/FF7A6B" alt=""/><img src="https://placehold.co/70x4/5CD6B0/5CD6B0" alt=""/>
+</div>
 
 <br>
 
@@ -454,7 +504,7 @@ Compared resumes generated by different AI platforms from the same information, 
 
 ## ✦ 05 · MY BRAND IDENTITY ✦
 
-*Blue for trust. Off-white for simplicity.*
+*Blue for trust. Off-white for simplicity. Gold, coral, and mint for the creative spark.*
 
 <br>
 
@@ -466,26 +516,38 @@ Compared resumes generated by different AI platforms from the same information, 
 
 <br><br>
 
+![Core](https://img.shields.io/badge/CORE%20PALETTE-0052C9?style=for-the-badge)
+
 <table>
 <tr>
 <td align="center">
-
-<img src="https://placehold.co/220x110/0052C9/EEEDE9?text=BLUE" width="220" alt="Blue color swatch"/>
-
-**Blue**<br>`#0052C9`
-
+<img src="https://placehold.co/200x110/0052C9/EEEDE9?text=BLUE&font=montserrat" width="200" alt="Blue"/>
+<br><b>Royal Blue</b><br><code>#0052C9</code>
 </td>
 <td align="center">
-
-<img src="https://placehold.co/220x110/EEEDE9/0052C9?text=OFF-WHITE" width="220" alt="Off-white color swatch"/>
-
-**Off-White**<br>`#EEEDE9`
-
+<img src="https://placehold.co/200x110/EEEDE9/0052C9?text=OFF-WHITE&font=montserrat" width="200" alt="Off-white"/>
+<br><b>Off-White</b><br><code>#EEEDE9</code>
 </td>
 </tr>
 </table>
 
 <br>
+
+![Accent](https://img.shields.io/badge/ACCENT%20PALETTE-F2B84B?style=for-the-badge&labelColor=0052C9)
+
+<table>
+<tr>
+<td align="center"><img src="https://placehold.co/130x80/5BA8FF/FFFFFF?text=SKY&font=montserrat" width="130" alt="Sky"/><br><code>#5BA8FF</code></td>
+<td align="center"><img src="https://placehold.co/130x80/8E9BFF/FFFFFF?text=PERI&font=montserrat" width="130" alt="Periwinkle"/><br><code>#8E9BFF</code></td>
+<td align="center"><img src="https://placehold.co/130x80/F2B84B/0052C9?text=GOLD&font=montserrat" width="130" alt="Gold"/><br><code>#F2B84B</code></td>
+<td align="center"><img src="https://placehold.co/130x80/FF7A6B/FFFFFF?text=CORAL&font=montserrat" width="130" alt="Coral"/><br><code>#FF7A6B</code></td>
+<td align="center"><img src="https://placehold.co/130x80/5CD6B0/0052C9?text=MINT&font=montserrat" width="130" alt="Mint"/><br><code>#5CD6B0</code></td>
+</tr>
+</table>
+
+<br>
+
+![Type](https://img.shields.io/badge/TYPOGRAPHY-8E9BFF?style=for-the-badge&labelColor=0052C9)
 
 | FONT | PURPOSE |
 |:---:|:---:|
@@ -496,7 +558,9 @@ Compared resumes generated by different AI platforms from the same information, 
 
 <br>
 
----
+<div align="center">
+<img src="https://placehold.co/70x4/0052C9/0052C9" alt=""/><img src="https://placehold.co/70x4/5BA8FF/5BA8FF" alt=""/><img src="https://placehold.co/70x4/8E9BFF/8E9BFF" alt=""/><img src="https://placehold.co/70x4/F2B84B/F2B84B" alt=""/><img src="https://placehold.co/70x4/FF7A6B/FF7A6B" alt=""/><img src="https://placehold.co/70x4/5CD6B0/5CD6B0" alt=""/>
+</div>
 
 <br>
 
@@ -507,11 +571,11 @@ Compared resumes generated by different AI platforms from the same information, 
 <br>
 
 ![Canva](https://img.shields.io/badge/Canva-0052C9?style=for-the-badge&logo=canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0052C9?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-0052C9?style=for-the-badge&logo=markdown&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-EEEDE9?style=for-the-badge&labelColor=0052C9)
-![Design](https://img.shields.io/badge/Presentation%20Design-EEEDE9?style=for-the-badge&labelColor=0052C9)
-![Typography](https://img.shields.io/badge/Typography-EEEDE9?style=for-the-badge&labelColor=0052C9)
+![GitHub](https://img.shields.io/badge/GitHub-5BA8FF?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-8E9BFF?style=for-the-badge&logo=markdown&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF7A6B?style=for-the-badge)
+![Design](https://img.shields.io/badge/Presentation%20Design-F2B84B?style=for-the-badge&labelColor=0052C9)
+![Typography](https://img.shields.io/badge/Typography-5CD6B0?style=for-the-badge&labelColor=0052C9)
 
 <br>
 
@@ -526,7 +590,9 @@ Compared resumes generated by different AI platforms from the same information, 
 
 <br>
 
----
+<div align="center">
+<img src="https://placehold.co/70x4/0052C9/0052C9" alt=""/><img src="https://placehold.co/70x4/5BA8FF/5BA8FF" alt=""/><img src="https://placehold.co/70x4/8E9BFF/8E9BFF" alt=""/><img src="https://placehold.co/70x4/F2B84B/F2B84B" alt=""/><img src="https://placehold.co/70x4/FF7A6B/FF7A6B" alt=""/><img src="https://placehold.co/70x4/5CD6B0/5CD6B0" alt=""/>
+</div>
 
 <br>
 
@@ -548,17 +614,13 @@ I look forward to applying what I have learned to future academic and personal p
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0052C9&height=2&section=header" width="60%" alt=""/>
-
-<br>
-
-### ✦ DRIVEN · STRIVIN · LIVIN · THRIVIN ✦
+<img src="https://img.shields.io/badge/%E2%9C%A6%20DRIVEN%20%C2%B7%20STRIVIN%20%C2%B7%20LIVIN%20%C2%B7%20THRIVIN%20%E2%9C%A6-0052C9?style=for-the-badge" alt="Driven Strivin Livin Thrivin"/>
 
 *Creativity is not just what you make. It is how you think, communicate, and transform ideas into something meaningful.*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0052C9&height=2&section=header" width="60%" alt=""/>
+<img src="https://placehold.co/70x6/0052C9/0052C9" alt=""/><img src="https://placehold.co/70x6/5BA8FF/5BA8FF" alt=""/><img src="https://placehold.co/70x6/8E9BFF/8E9BFF" alt=""/><img src="https://placehold.co/70x6/F2B84B/F2B84B" alt=""/><img src="https://placehold.co/70x6/FF7A6B/FF7A6B" alt=""/><img src="https://placehold.co/70x6/5CD6B0/5CD6B0" alt=""/>
 
 </div>
 
@@ -566,7 +628,7 @@ I look forward to applying what I have learned to future academic and personal p
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=170&section=footer&text=SOFHIA%20ANGELA%20L.%20DY&fontSize=30&fontColor=EEEDE9&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0052C9&height=180&section=footer&text=SOFHIA%20ANGELA%20L.%20DY&fontSize=30&fontColor=EEEDE9&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer banner"/>
 
 **GE 4120 &nbsp;|&nbsp; 21st Century IT Skills**
 
